@@ -10,8 +10,8 @@ Hi, I’m Irina Bobrineva - aka @i-bobrineva 🙋‍♀️
 <a href="https://t.me/ibobrineva">
     <img src="https://github.com/i-bobrineva/i-bobrineva/blob/main/images/Telegram-1536x886.png" alt="Telegram" width="90" height="50" />
 </a>
-<a href="https://t.me/ibobrineva">
-    <img src="https://github.com/i-bobrineva/i-bobrineva/blob/main/images/Telegram-1536x886.png" alt="Telegram" width="90" height="50" />
+<a href="mailto:trinibo@yandex.ru">
+    <img src="https://github.com/i-bobrineva/i-bobrineva/blob/main/images/sticker-png-yandex-mail-email-yandex-browser-email-miscellaneous-angle-rectangle-orange-triangle.png" alt="Yandex" width="90" height="50" />
 </a>
 </div>
 
