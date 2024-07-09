@@ -9,6 +9,7 @@ Hi, I’m Irina Bobrineva - aka @i-bobrineva 🙋‍♀️
 
 [<img align="left" alt="i-bobrineva | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/ibobrineva)
 [<img align="left" alt="i-bobrineva | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:irabobr1@gmail.com)
+[<img align="left" alt="i-bobrineva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://www.linkedin.com/in/irina-bobrineva-389210316/)
 
 <br />
 
