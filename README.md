@@ -1,8 +1,8 @@
 Hi, I’m Irina Bobrineva - aka @i-bobrineva 🙋‍♀️
 
-## I'm IT-editor and beginner data specialist
-- 🦾 I’m currently working at [Yandex Practicum](https://practicum.yandex.ru/)
-- 🕰️ 2024 Goals: Make/contibute a couple machine learning projects
+## I'm project manager and data specialist
+- 🦾 I worked at Almaty Tourism Bureau, Yandex Practicum and interned at Sergek Group. At ATB I optimized internal processes within the company and handled digital projects. At Practicum, I launched educational IT courses, and at Sergek, I analyzed big data and researched the city's ecology.
+- 🕰️ 2025 Goals: Make/contibute a couple social projects
 - 💡 side interests: designing applications and sites, learning how to work with BI-tools 
 
 ## Contact me
